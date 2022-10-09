@@ -1,0 +1,15 @@
+C:\Users\nykyt\source\repos\ConvertionApp\ConvertionApp\bin\Debug\net6.0\ConvertionApp.exe
+C:\Users\nykyt\source\repos\ConvertionApp\ConvertionApp\bin\Debug\net6.0\ConvertionApp.deps.json
+C:\Users\nykyt\source\repos\ConvertionApp\ConvertionApp\bin\Debug\net6.0\ConvertionApp.runtimeconfig.json
+C:\Users\nykyt\source\repos\ConvertionApp\ConvertionApp\bin\Debug\net6.0\ConvertionApp.dll
+C:\Users\nykyt\source\repos\ConvertionApp\ConvertionApp\bin\Debug\net6.0\ConvertionApp.pdb
+C:\Users\nykyt\source\repos\ConvertionApp\ConvertionApp\obj\Debug\net6.0\ConvertionApp.csproj.AssemblyReference.cache
+C:\Users\nykyt\source\repos\ConvertionApp\ConvertionApp\obj\Debug\net6.0\ConvertionApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nykyt\source\repos\ConvertionApp\ConvertionApp\obj\Debug\net6.0\ConvertionApp.AssemblyInfoInputs.cache
+C:\Users\nykyt\source\repos\ConvertionApp\ConvertionApp\obj\Debug\net6.0\ConvertionApp.AssemblyInfo.cs
+C:\Users\nykyt\source\repos\ConvertionApp\ConvertionApp\obj\Debug\net6.0\ConvertionApp.csproj.CoreCompileInputs.cache
+C:\Users\nykyt\source\repos\ConvertionApp\ConvertionApp\obj\Debug\net6.0\ConvertionApp.dll
+C:\Users\nykyt\source\repos\ConvertionApp\ConvertionApp\obj\Debug\net6.0\refint\ConvertionApp.dll
+C:\Users\nykyt\source\repos\ConvertionApp\ConvertionApp\obj\Debug\net6.0\ConvertionApp.pdb
+C:\Users\nykyt\source\repos\ConvertionApp\ConvertionApp\obj\Debug\net6.0\ConvertionApp.genruntimeconfig.cache
+C:\Users\nykyt\source\repos\ConvertionApp\ConvertionApp\obj\Debug\net6.0\ref\ConvertionApp.dll
